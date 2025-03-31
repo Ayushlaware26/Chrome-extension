@@ -24,7 +24,7 @@
   "web_accessible_resources" : [
     {
       "resources": [
-        "assests/bookmarks.png",
+        "assests/bookmark.png",
         "assests/delete.png",
         "assests/play.png"
       ],
